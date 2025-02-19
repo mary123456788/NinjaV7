@@ -1,0 +1,2562 @@
+2025-02-19 12:27:56 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV6\testng.xml"
+2025-02-19 12:27:57 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:27:57 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:27:57 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:27:57 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:27:57 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:27:57 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:28:03 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:03 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:14 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:14 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:28:14 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:28:14 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:28:14 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:28:14 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:28:14 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:28:14 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:28:15 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:28:15 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:28:15 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:28:15 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:15 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:28:15 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:28:15 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:28:15 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:28:15 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:28:15 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:28:15 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:28:18 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:18 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:23 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:28:23 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:28:23 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:28:23 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:23 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:28:23 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:28:23 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:28:23 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:28:23 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:28:23 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:28:23 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:28:26 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:27 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:28 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:28 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:28 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:29 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:29 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:29 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:30 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:31 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:28:31 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:28:31 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:28:39 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:39 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:39 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:39 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:40 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:41 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:28:45 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:28:45 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:28:46 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:46 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:28:47 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:28:47 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:47 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:47 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:50 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:28:50 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:28:51 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:28:51 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:28:51 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:51 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:52 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:53 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:28:53 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:28:55 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:28:55 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:28:55 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:55 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:55 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:57 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:28:57 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:28:58 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:28:58 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:28:58 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:28:58 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:28:58 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:28:59 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:28:59 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:00 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:00 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:00 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:00 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:29:01 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:29:02 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:29:02 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:03 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:03 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:03 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:03 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:29:04 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:29:06 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:29:06 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:09 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:09 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:09 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:29:14 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:29:14 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:29:14 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:29:27 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:29:29 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:29:29 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:29:29 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:29:31 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:29:32 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:29:32 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:29:32 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:32 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:32 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:32 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:29:33 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:29:36 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:29:36 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:29:36 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:29:37 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:29:37 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:39 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:39 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:39 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:39 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:29:41 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:29:45 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:29:45 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:49 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:49 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:49 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:49 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:29:49 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:29:50 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:29:54 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:29:54 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:29:55 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:29:55 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:29:55 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:29:55 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:29:56 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:29:58 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:29:58 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:29:58 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:29:58 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:29:58 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:02 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:02 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:30:03 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:03 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:05 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:05 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:05 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:05 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:06 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:06 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:07 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:07 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:07 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:07 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:07 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:08 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:30:08 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:08 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:09 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:09 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:09 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:09 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:09 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:10 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:10 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:10 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:10 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:30:10 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:30:10 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:30:10 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:30:11 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:11 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:11 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:11 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:11 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:11 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:12 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:12 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:12 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:12 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:30:13 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:30:13 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:30:13 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:30:13 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:30:13 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:30:13 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:30:14 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:14 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:17 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:17 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:17 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:17 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:17 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:30:17 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:18 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:18 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:19 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:19 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:19 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:30:19 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:30:20 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:30:21 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:30:21 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:30:22 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:30:22 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:30:22 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:30:26 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:30:26 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:30:26 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:30:28 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:30:28 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:30:28 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:30:28 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:30:31 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:30:32 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:30:39 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:30:39 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:30:42 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:30:44 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:30:44 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:30:44 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:30:50 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:30:52 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:30:52 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:30:53 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:30:55 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:30:55 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:30:55 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:30:58 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:31:08 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:31:08 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:31:08 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:31:08 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:31:09 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:31:24 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:31:29 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:31:47 INFO  TC05_CompletePurchase:98 -
+			Verifying order confirmation message.
+2025-02-19 12:31:47 DEBUG TC05_CompletePurchase:100 -
+			Order placed confirmation message verified successfully.
+2025-02-19 12:31:47 DEBUG TC05_CompletePurchase:110 -
+			Test execution completed.
+2025-02-19 12:31:47 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:31:48 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:31:48 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:31:48 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:31:48 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:31:50 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:31:50 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:31:50 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:31:50 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:31:51 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:31:51 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:31:51 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:31:51 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:31:51 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:31:53 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:31:53 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:31:53 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:31:55 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:32:04 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:32:06 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:32:06 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:32:06 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:32:06 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:32:07 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:32:08 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:32:08 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:32:08 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:32:09 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:32:09 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:32:09 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:32:10 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:32:10 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:32:10 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:32:10 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:32:10 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:32:11 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:32:11 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:32:11 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:32:11 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:32:16 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:32:16 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:32:18 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:32:18 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:32:18 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:32:18 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:32:18 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:32:18 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:32:18 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:32:21 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:32:37 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:32:37 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:32:40 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:32:58 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:33:02 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:33:04 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:33:06 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:33:08 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:33:08 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:33:08 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:33:08 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:33:10 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:33:10 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:33:10 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:33:12 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:33:26 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:33:26 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:33:29 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:33:40 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:33:53 INFO  TC05_CompletePurchase:98 -
+			Verifying order confirmation message.
+2025-02-19 12:33:53 DEBUG TC05_CompletePurchase:100 -
+			Order placed confirmation message verified successfully.
+2025-02-19 12:33:53 DEBUG TC05_CompletePurchase:110 -
+			Test execution completed.
+2025-02-19 12:33:53 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:33:54 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:33:54 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:33:54 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:34:02 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:34:06 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:34:06 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:34:06 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:34:07 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:34:07 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:34:08 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:34:09 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:34:09 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:34:09 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:34:09 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:34:09 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:35:02 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//label[normalize-space()='I want to use a new address']//input[@name='shipping_address']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//label[normalize-space()='I want to use a new address']//input[@name='shipping_address'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[normalize-space()='I want to use a new address']//input[@name='shipping_address']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//label[normalize-space()='I want to use a new address']//input[@name='shipping_address'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CheckOutPage.Delivery_IWantToUseANewAddress(CheckOutPage.java:137) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:74) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:35:03 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 12:35:03 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:35:06 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:35:15 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:36:20 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:36:20 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 12:36:20 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:36:23 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:36:32 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:37:37 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c26c1b529d9e8a9ef00b578138f15e71, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61245}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26c1b529d9e8a9ef00b578138f15e71
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:37:38 INFO  BaseClass:158 -
+			Screenshot captured: C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV6/screenshots/testCompletePurchase_20250219123737.png
+2025-02-19 12:37:38 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:37:39 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:37:39 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:37:39 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:37:50 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:37:53 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:37:53 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:37:53 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:37:53 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:37:53 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:38:09 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:38:10 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:38:10 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:38:10 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:38:10 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:38:12 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:39:59 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV6\testng.xml"
+2025-02-19 12:39:59 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:39:59 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:39:59 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:39:59 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:39:59 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:39:59 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:40:03 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:04 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:21 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:21 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:40:21 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:40:21 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:40:21 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:40:21 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:40:21 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:40:21 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:40:21 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:40:26 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:40:26 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:40:26 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:40:26 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:40:26 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:40:26 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:40:26 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:40:26 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:40:29 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:40:29 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:40:29 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:40:30 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:40:30 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-02-19 12:40:30 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-02-19 12:40:30 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-02-19 12:40:30 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-02-19 12:40:30 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-02-19 12:40:30 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-02-19 12:40:30 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:40:30 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:40:30 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:40:30 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:40:32 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:40:32 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:40:32 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:40:38 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:40 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:50 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:40:54 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:40:55 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:40:55 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:40:55 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:40:59 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:40:59 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:40:59 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:40:59 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:02 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:41:02 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:02 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:02 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:04 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:05 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-19 12:41:05 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:05 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:05 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:05 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:05 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-19 12:41:05 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-02-19 12:41:05 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:05 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:06 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:07 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:08 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:15 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:15 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:16 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:16 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:16 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:16 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:16 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:17 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:17 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:19 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:19 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:19 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:19 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:19 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:20 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:20 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:21 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:21 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:21 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:21 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:22 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:23 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:23 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:24 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:24 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:24 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:24 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:25 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:26 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:26 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:27 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:27 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:27 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:27 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:28 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:29 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:29 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:30 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:30 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:30 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:41:33 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:41:33 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:41:33 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:41:43 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:41:49 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:49 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:49 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:41:49 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:41:49 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:41:50 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:50 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:50 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:50 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:51 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:41:52 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:41:52 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:41:52 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:41:52 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:41:52 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:41:52 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:41:53 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:41:53 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:41:53 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:41:53 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:41:53 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:41:53 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:41:53 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:41:55 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:41:55 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:41:55 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:41:55 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:41:58 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:41:58 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:41:58 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:42:05 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:05 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:06 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:06 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:06 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:06 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:06 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:42:06 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:09 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:09 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:11 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:42:11 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:42:11 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:42:11 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:42:11 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:11 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:11 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:11 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:11 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:42:13 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:42:17 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:42:18 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:20 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:20 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:21 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:42:23 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:42:23 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:42:23 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:42:23 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:42:27 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:27 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:42:27 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:42:27 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:42:29 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:29 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:32 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:32 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:32 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:32 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:34 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:37 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:37 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:37 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:37 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:37 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:37 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:38 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:38 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:38 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:38 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:38 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:40 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:42:41 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:43 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:43 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:44 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:44 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:44 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:44 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:45 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:46 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:46 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:47 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:47 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:47 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:47 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:48 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:48 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:48 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:48 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:42:48 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:42:49 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:49 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:49 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-02-19 12:42:49 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-02-19 12:42:50 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-02-19 12:42:51 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:51 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:51 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:42:52 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:52 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:52 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:42:54 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:42:54 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:42:54 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:42:54 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-02-19 12:42:54 INFO  TC02_Login:58 -
+			Login successful.
+2025-02-19 12:42:55 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-02-19 12:42:55 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-02-19 12:42:55 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:42:59 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:42:59 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:42:59 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:43:03 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:43:03 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:43:06 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:43:21 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:43:21 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:43:21 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:43:24 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:43:24 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-02-19 12:43:24 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-02-19 12:43:27 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:43:29 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-02-19 12:43:32 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:43:33 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:43:33 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:43:33 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:43:36 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:43:36 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:43:37 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:43:37 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:43:37 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:43:37 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:43:37 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:43:37 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:43:37 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:43:53 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:43:59 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: Element <input id="button-confirm" class="btn btn-primary" type="button"> could not be scrolled into view
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, clickElement {id=4efcd1ad-fedf-4594-a296-62cbc9ea86a7}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[RemoteWebDriver: firefox on Windows 11 (be0cac66-9adc-4e85-b467-4303f8296596)] -> xpath: //input[@id='button-confirm']]
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+org.openqa.selenium.ElementNotInteractableException: Element <input id="button-confirm" class="btn btn-primary" type="button"> could not be scrolled into view
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, clickElement {id=4efcd1ad-fedf-4594-a296-62cbc9ea86a7}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[RemoteWebDriver: firefox on Windows 11 (be0cac66-9adc-4e85-b467-4303f8296596)] -> xpath: //input[@id='button-confirm']]
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CheckOutPage.ConfirmOrder(CheckOutPage.java:187) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:93) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:43:59 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 12:43:59 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:44:01 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:44:01 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:44:01 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:44:01 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:44:02 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:44:02 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:44:04 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:44:15 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:44:15 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-02-19 12:44:16 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-02-19
+2025-02-19 12:44:16 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-02-26
+2025-02-19 12:44:16 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-02-26
+2025-02-19 12:44:17 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:44:22 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-02-19 12:44:22 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-02-19 12:44:23 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-02-19 12:44:23 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-02-19 12:44:23 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-02-19 12:44:23 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:44:26 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:44:26 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:44:26 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:44:32 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:44:43 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:44:43 DEBUG TC04_AddToWishList:20 -
+			Starting testAddToWishList()
+2025-02-19 12:44:43 INFO  TC04_AddToWishList:25 -
+			Clicking on 'My Account'
+2025-02-19 12:44:43 INFO  TC04_AddToWishList:28 -
+			Navigating to Login Page
+2025-02-19 12:44:44 INFO  TC04_AddToWishList:32 -
+			Entering login credentials
+2025-02-19 12:45:18 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:45:19 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:45:19 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 12:45:19 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:45:20 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:45:20 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:45:20 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:45:20 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:45:20 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:45:20 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:45:20 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:45:22 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:45:24 INFO  TC04_AddToWishList:38 -
+			Navigating to Laptops & Notebooks section
+2025-02-19 12:45:24 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:45:29 INFO  TC04_AddToWishList:45 -
+			Selecting the HP Laptop HP LP3065
+2025-02-19 12:45:31 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:45:34 INFO  TC04_AddToWishList:49 -
+			Adding the product to wishlist
+2025-02-19 12:45:35 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:45:35 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:45:37 DEBUG TC04_AddToWishList:55 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-02-19 12:45:37 INFO  TC04_AddToWishList:58 -
+			Product successfully added to wishlist.
+2025-02-19 12:45:37 DEBUG TC04_AddToWishList:66 -
+			Test completed.
+2025-02-19 12:45:37 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:45:38 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:45:40 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:45:40 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:45:40 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:45:44 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:45:55 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:45:55 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:45:56 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:45:58 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:46:32 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:46:35 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@id='input-email']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be0cac66-9adc-4e85-b467-4303f8296596, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0, moz:accessibilityChecks: false, moz:buildID: 20250130195129, moz:debuggerAddress: 127.0.0.1:30558, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 3}}, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12828, moz:profile: C:\Users\Deity\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: be0cac66-9adc-4e85-b467-4303f8296596
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:46:35 INFO  BaseClass:158 -
+			Screenshot captured: C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV6/screenshots/testCompletePurchase_20250219124635.png
+2025-02-19 12:46:35 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:46:41 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:46:41 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-02-19 12:46:41 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:47:06 INFO  TC05_CompletePurchase:98 -
+			Verifying order confirmation message.
+2025-02-19 12:47:06 DEBUG TC05_CompletePurchase:100 -
+			Order placed confirmation message verified successfully.
+2025-02-19 12:47:06 DEBUG TC05_CompletePurchase:110 -
+			Test execution completed.
+2025-02-19 12:47:06 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:47:07 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:47:07 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-02-19 12:47:07 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:47:08 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:47:11 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:47:17 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:47:17 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:47:17 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:47:19 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:47:20 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:47:21 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:47:21 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:47:21 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:47:21 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:47:23 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:47:25 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:47:25 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:47:25 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:47:27 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:47:27 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:47:33 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:47:34 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:47:34 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:47:34 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:47:34 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:47:36 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:48:11 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='agree']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@name='agree'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='agree']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@name='agree'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.CheckOutPage.Payment_Agree(CheckOutPage.java:179) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:89) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:48:11 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-19 12:48:11 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:48:14 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:48:24 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:49:28 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:49:28 WARN  RetryAnalyzer:18 -
+			Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-19 12:49:28 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-02-19 12:49:31 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-02-19 12:49:40 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-02-26
+2025-02-19 12:50:45 ERROR TC05_CompletePurchase:106 -
+			An unexpected error occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=133.0.3065.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [15614cd056cb676ed2d9317a4a9a4889, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62276}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\Deity\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.71:4444/sess..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15614cd056cb676ed2d9317a4a9a4889
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.28.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.LoginPage.setEmail(LoginPage.java:31) ~[test-classes/:?]
+	at testCases.TC05_CompletePurchase.testCompletePurchase(TC05_CompletePurchase.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-02-19 12:50:45 INFO  BaseClass:158 -
+			Screenshot captured: C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV6/screenshots/testCompletePurchase_20250219125045.png
+2025-02-19 12:50:45 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:50:47 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
+2025-02-19 12:50:47 INFO  BaseClass:46 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-02-19 12:50:47 DEBUG BaseClass:53 -
+			Successfully loaded config.properties file.
+2025-02-19 12:50:53 DEBUG BaseClass:116 -
+			WebDriver instance set successfully.
+2025-02-19 12:50:57 INFO  BaseClass:124 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-19 12:50:57 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-02-19 12:50:57 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-02-19 12:51:00 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-02-19 12:51:00 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-02-19 12:51:01 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-02-19 12:51:02 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-02-19 12:51:02 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-02-19 12:51:02 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-02-19 12:51:02 INFO  BaseClass:136 -
+			Closing browser...
+2025-02-19 12:51:05 INFO  BaseClass:139 -
+			Browser closed and WebDriver instance removed.
