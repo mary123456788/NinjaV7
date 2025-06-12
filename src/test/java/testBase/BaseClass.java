@@ -27,6 +27,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -40,7 +42,7 @@ public class BaseClass {
 		return driver.get();
 	}
 
-	@BeforeClass(groups = { "smoke", "regression", "datadriven" })
+	@BeforeMethod(groups = { "smoke", "regression", "datadriven" })
 	@Parameters({ "os", "browser" })
 	public void openApp(String os, String br) {
 		log.info("Starting Test Execution - OS: {}, Browser: {}", os, br);
@@ -129,7 +131,7 @@ public class BaseClass {
 		}
 	}
 
-	@AfterClass(groups = { "smoke", "regression", "datadriven" })
+	@AfterMethod(groups = { "smoke", "regression", "datadriven" })
 	public void closeApp() {
 		try {
 			if (getDriver() != null) {
@@ -142,21 +144,43 @@ public class BaseClass {
 			log.error("Error while closing the browser: {}", e.getMessage(), e);
 		}
 	}
+	public static String captureScreen(WebDriver driver,String tname) {
+	    if (getDriver() == null) {
+	        log.warn("WebDriver is null; skipping screenshot capture for test: {}", tname);
+	        return null;
+	    }
 
-	public static String captureScreen(String tname) throws IOException {
-		if (getDriver() == null) {
-			throw new IllegalStateException("WebDriver instance is null, cannot take screenshot.");
-		}
+	    try {
+	        String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+	        String targetFilePath = System.getProperty("user.dir") + "/screenshots/" + tname + "_" + timeStamp + ".png";
 
-		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
-		String targetFilePath = System.getProperty("user.dir") + "/screenshots/" + tname + "_" + timeStamp + ".png";
-
-		File sourceFile = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
-		File targetFile = new File(targetFilePath);
-
-		Files.copy(sourceFile.toPath(), targetFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
-		log.info("Screenshot captured: {}", targetFilePath);
-
-		return targetFilePath;
+	        File sourceFile = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
+	        File targetFile = new File(targetFilePath);
+	        Files.copy(sourceFile.toPath(), targetFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+	        log.info("Screenshot captured: {}", targetFilePath);
+	        return targetFilePath;
+	    } catch (IOException e) {
+	        log.error("Failed to capture screenshot for test: {}", tname, e);
+	        return null;
+	    }
 	}
+
+	
+
+//	public static String captureScreen(String tname) throws IOException {
+//		if (getDriver() == null) {
+//			throw new IllegalStateException("WebDriver instance is null, cannot take screenshot.");
+//		}
+//
+//		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+//		String targetFilePath = System.getProperty("user.dir") + "/screenshots/" + tname + "_" + timeStamp + ".png";
+//
+//		File sourceFile = ((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.FILE);
+//		File targetFile = new File(targetFilePath);
+//
+//		Files.copy(sourceFile.toPath(), targetFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+//		log.info("Screenshot captured: {}", targetFilePath);
+//
+//		return targetFilePath;
+//	}
 }

@@ -24,6 +24,8 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+import org.openqa.selenium.WebDriver;
+
 
 import testBase.BaseClass;
 
@@ -77,21 +79,45 @@ public class ExtentReportManager implements ITestListener {
 
 	}
 
+//	public void onTestFailure(ITestResult result) {
+//		test = extent.createTest(result.getTestClass().getName());
+//		test.assignCategory(result.getMethod().getGroups());
+//
+//		test.log(Status.FAIL, result.getName() + " got failed");
+//		test.log(Status.INFO, result.getThrowable().getMessage());
+//
+//		try {
+//			String imgPath = new BaseClass().captureScreen(result.getName());
+//			test.addScreenCaptureFromPath(imgPath);
+//
+//		} catch (IOException e1) {
+//			e1.printStackTrace();
+//		}
+//	}
+	
 	public void onTestFailure(ITestResult result) {
-		test = extent.createTest(result.getTestClass().getName());
-		test.assignCategory(result.getMethod().getGroups());
+	    test = extent.createTest(result.getTestClass().getName());
+	    test.assignCategory(result.getMethod().getGroups());
+	    test.log(Status.FAIL, result.getName() + " got failed");
+	    test.log(Status.INFO, result.getThrowable().getMessage());
 
-		test.log(Status.FAIL, result.getName() + " got failed");
-		test.log(Status.INFO, result.getThrowable().getMessage());
+	    try {
+	        // Get the real WebDriver from the test instance
+	        Object testInstance = result.getInstance();
+	        WebDriver driver = ((BaseClass) testInstance).getDriver();
 
-		try {
-			String imgPath = new BaseClass().captureScreen(result.getName());
-			test.addScreenCaptureFromPath(imgPath);
-
-		} catch (IOException e1) {
-			e1.printStackTrace();
-		}
+	        if (driver != null) {
+	            String imgPath = BaseClass.captureScreen(driver, result.getName());
+	            test.addScreenCaptureFromPath(imgPath);
+	        } else {
+	            test.log(Status.WARNING, "WebDriver is null. Screenshot not captured.");
+	        }
+	    } catch (Exception e) {
+	        e.printStackTrace();
+	        test.log(Status.WARNING, "Exception during screenshot capture: " + e.getMessage());
+	    }
 	}
+	
 
 	public void onTestSkipped(ITestResult result) {
 		test = extent.createTest(result.getTestClass().getName());
