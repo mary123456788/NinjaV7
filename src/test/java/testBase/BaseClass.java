@@ -13,10 +13,12 @@ import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -29,6 +31,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BaseClass {
 
@@ -49,6 +53,7 @@ public class BaseClass {
 			// Load properties file
 			FileReader file = new FileReader(".//src//test//resources//config.properties");
 			p = new Properties();
+			
 			p.load(file);
 			log.debug("Successfully loaded config.properties file.");
 
@@ -112,6 +117,10 @@ public class BaseClass {
 					throw new IllegalArgumentException("No matching browser found: " + br);
 				}
 			}
+			if (localDriver == null) {
+				throw new Exception("WebDriver initialization failed for OS: " + os + ", Browser: " + br);
+			}
+
 			driver.set(localDriver);
 			log.debug("WebDriver instance set successfully.");
 
@@ -124,6 +133,12 @@ public class BaseClass {
 			log.info("Successfully launched application URL: {}", p.getProperty("appURL"));
 		} catch (IOException e) {
 			log.error("Error loading properties file: {}", e.getMessage(), e);
+			
+//		} catch (Exception e) {
+//		    log.error("Error initializing WebDriver: {}", e.getMessage(), e);
+//		    throw new RuntimeException("Driver setup failed: " + e.getMessage(), e);
+//		}
+
 		} catch (Exception e) {
 			log.error("Error initializing WebDriver: {}", e.getMessage(), e);
 		}
@@ -159,4 +174,16 @@ public class BaseClass {
 
 		return targetFilePath;
 	}
+	
+	// ✅ Add the wait method here
+//	public static WebElement waitForVisibility(WebElement element, int timeoutInSeconds) {
+//	    WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(timeoutInSeconds));
+//	    return wait.until(ExpectedConditions.visibilityOf(element));
+//	}
+//	
+//	public static WebElement waitForVisibility(By locator, int timeoutInSeconds) {
+//	    WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(timeoutInSeconds));
+//	    return wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+//	}
+
 }

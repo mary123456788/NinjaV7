@@ -10,7 +10,7 @@ public class RetryAnalyzer implements IRetryAnalyzer {
 	private static final Logger log = LogManager.getLogger(RetryAnalyzer.class);
 
 	private int retryCount = 0;
-	private static final int maxRetryCount = 3; // Set the maximum number of retries
+	private static final int maxRetryCount = 1; // Set the maximum number of retries
 
 	@Override
 	public boolean retry(ITestResult result) {
