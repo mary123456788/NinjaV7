@@ -22,33 +22,6 @@
           <include name="closeApp"/>
         </methods>
       </class> <!-- testCases.TC04_AddToWishList -->
-      <class name="testCases.TC02_Login">
-        <methods>
-          <include name="openApp"/>
-          <include name="closeApp"/>
-          <include name="testLogin" invocation-numbers="2 3 4 5"/>
-        </methods>
-      </class> <!-- testCases.TC02_Login -->
     </classes>
   </test> <!-- chromeTest(failed) -->
-  <test thread-count="5" name="edgeTest(failed)" verbose="0">
-    <parameter name="os" value="windows"/>
-    <parameter name="browser" value="edge"/>
-    <groups>
-      <run>
-        <include name="smoke"/>
-        <include name="regression"/>
-        <include name="datadriven"/>
-      </run>
-    </groups>
-    <classes>
-      <class name="testCases.TC04_AddToWishList">
-        <methods>
-          <include name="openApp"/>
-          <include name="testAddToWishList"/>
-          <include name="closeApp"/>
-        </methods>
-      </class> <!-- testCases.TC04_AddToWishList -->
-    </classes>
-  </test> <!-- edgeTest(failed) -->
 </suite> <!-- Failed suite [Sequential Suite] -->
