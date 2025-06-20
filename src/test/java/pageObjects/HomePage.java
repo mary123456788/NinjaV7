@@ -1,8 +1,12 @@
 package pageObjects;
 
+import java.time.Duration;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage extends BasePage {
 	// constructor
@@ -39,16 +43,34 @@ public class HomePage extends BasePage {
 		return content_HomePage.getText();
 	}
 
+//	public void clickMyAccount() {
+//		link_MyAccount.click();
+//	}
+
 	public void clickMyAccount() {
-		link_MyAccount.click();
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+		wait.until(ExpectedConditions.visibilityOf(link_MyAccount));
+		waitForClickable(link_MyAccount).click();
 	}
 
+//	public void goToLogin() {
+//		link_Login.click();
+//	}
+//	
 	public void goToLogin() {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+		wait.until(ExpectedConditions.visibilityOf(link_Login));
 		link_Login.click();
 	}
 
+//	public void LaptopsAndNotebooks() {
+//		LaptopsAndNotebooks.click();
+//	}
+
 	public void LaptopsAndNotebooks() {
-		LaptopsAndNotebooks.click();
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+		wait.until(ExpectedConditions.visibilityOf(LaptopsAndNotebooks));
+		waitForClickable(LaptopsAndNotebooks).click();
 	}
 
 	public void ShowAll_LaptopsAndNotebooks() {

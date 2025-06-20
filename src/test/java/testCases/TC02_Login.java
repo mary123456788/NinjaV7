@@ -21,7 +21,7 @@ public class TC02_Login extends BaseClass {
 	// Retry Analyzer
 	public static class RetryAnalyzer implements IRetryAnalyzer {
 		private int count = 0;
-		private static final int maxRetryCount = 3;
+		private static final int maxRetryCount = 1;
 
 		@Override
 		public boolean retry(ITestResult result) {

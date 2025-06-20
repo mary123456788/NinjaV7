@@ -1,48 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-27T10:29:33 CST" name="Suite" finished-at="2025-02-27T10:29:33 CST" duration-ms="0">
+  <suite started-at="2025-06-18T14:40:16 CDT" name="Default suite" finished-at="2025-06-18T14:40:16 CDT" duration-ms="83">
     <groups>
-      <group name="datadriven">
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@63f8276e]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@55dfebeb]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@1d3ac898]" name="testLogin" class="testCases.TC02_Login"/>
-      </group> <!-- datadriven -->
       <group name="regression">
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@4ce7fffa]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@63f8276e]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@115667d]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC04_AddToWishList.testAddToWishList()[pri:0, instance:testCases.TC04_AddToWishList@497486b3]" name="testAddToWishList" class="testCases.TC04_AddToWishList"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@736caf7a]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-        <method signature="TC06_PurchaseGiftCertificate.testPurchaseGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseGiftCertificate@2654635]" name="testPurchaseGiftCertificate" class="testCases.TC06_PurchaseGiftCertificate"/>
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@23aa363a]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@55dfebeb]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@f80945f]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC04_AddToWishList.testAddToWishList()[pri:0, instance:testCases.TC04_AddToWishList@5ef6ae06]" name="testAddToWishList" class="testCases.TC04_AddToWishList"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@ff684e1]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-        <method signature="TC06_PurchaseGiftCertificate.testPurchaseGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseGiftCertificate@2dca0d64]" name="testPurchaseGiftCertificate" class="testCases.TC06_PurchaseGiftCertificate"/>
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@1e8ce150]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@1d3ac898]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@77b14724]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC04_AddToWishList.testAddToWishList()[pri:0, instance:testCases.TC04_AddToWishList@604f2bd2]" name="testAddToWishList" class="testCases.TC04_AddToWishList"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@5d9b7a8a]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-        <method signature="TC06_PurchaseGiftCertificate.testPurchaseGiftCertificate()[pri:0, instance:testCases.TC06_PurchaseGiftCertificate@1cdc4c27]" name="testPurchaseGiftCertificate" class="testCases.TC06_PurchaseGiftCertificate"/>
+        <method signature="TC04_AddToWishList.testAddToWishList()[pri:0, instance:testCases.TC04_AddToWishList@b1712f3]" name="testAddToWishList" class="testCases.TC04_AddToWishList"/>
       </group> <!-- regression -->
-      <group name="smoke">
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@4ce7fffa]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@63f8276e]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@115667d]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@736caf7a]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@23aa363a]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@55dfebeb]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@f80945f]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@ff684e1]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-        <method signature="TC01_LaunchApplication.testLaunchApplication()[pri:0, instance:testCases.TC01_LaunchApplication@1e8ce150]" name="testLaunchApplication" class="testCases.TC01_LaunchApplication"/>
-        <method signature="TC02_Login.testLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_Login@1d3ac898]" name="testLogin" class="testCases.TC02_Login"/>
-        <method signature="TC03_AddToCart.testAddToCart()[pri:0, instance:testCases.TC03_AddToCart@77b14724]" name="testAddToCart" class="testCases.TC03_AddToCart"/>
-        <method signature="TC05_CompletePurchase.testCompletePurchase()[pri:0, instance:testCases.TC05_CompletePurchase@5d9b7a8a]" name="testCompletePurchase" class="testCases.TC05_CompletePurchase"/>
-      </group> <!-- smoke -->
     </groups>
-  </suite> <!-- Suite -->
+    <test started-at="2025-06-18T14:40:16 CDT" name="Default test" finished-at="2025-06-18T14:40:16 CDT" duration-ms="83">
+      <class name="testCases.TC04_AddToWishList">
+        <test-method is-config="true" signature="openApp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_AddToWishList@b1712f3]" started-at="2025-06-18T14:40:16 CDT" name="openApp" finished-at="1969-12-31T18:00:00 CST" duration-ms="-1750275616429" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'os' is required by BeforeClass on method openApp but has not been marked @Optional or defined
+in C:\Users\Deity\AppData\Local\Temp\testng-eclipse--1154297393\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'os' is required by BeforeClass on method openApp but has not been marked @Optional or defined
+in C:\Users\Deity\AppData\Local\Temp\testng-eclipse--1154297393\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:264)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:352)
+at org.testng.internal.Parameters.createParameters(Parameters.java:690)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="testAddToWishList()[pri:0, instance:testCases.TC04_AddToWishList@b1712f3]" started-at="2025-06-18T14:40:16 CDT" name="testAddToWishList" finished-at="2025-06-18T14:40:16 CDT" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'os' is required by BeforeClass on method openApp but has not been marked @Optional or defined
+in C:\Users\Deity\AppData\Local\Temp\testng-eclipse--1154297393\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'os' is required by BeforeClass on method openApp but has not been marked @Optional or defined
+in C:\Users\Deity\AppData\Local\Temp\testng-eclipse--1154297393\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:264)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:352)
+at org.testng.internal.Parameters.createParameters(Parameters.java:690)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToWishList -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:testCases.TC04_AddToWishList@b1712f3]" started-at="2025-06-18T14:40:16 CDT" name="closeApp" finished-at="2025-06-18T14:40:16 CDT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testCases.TC04_AddToWishList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

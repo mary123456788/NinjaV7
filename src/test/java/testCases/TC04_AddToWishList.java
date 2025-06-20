@@ -1,7 +1,12 @@
 package testCases;
 
+import java.time.Duration;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.Test;
@@ -20,6 +25,9 @@ public class TC04_AddToWishList extends BaseClass {
 		logger.debug("Starting testAddToWishList()");
 
 		try {
+//			WebDriver driver = getDriver();
+//			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
 			// Step 1: Navigate to My Account and Login
 			HomePage hp = new HomePage(getDriver());
 			logger.info("Clicking on 'My Account'");
@@ -70,7 +78,7 @@ public class TC04_AddToWishList extends BaseClass {
 	// RetryAnalyzer for retry logic
 	public static class RetryAnalyzer implements org.testng.IRetryAnalyzer {
 		private int count = 0;
-		private static final int MAX_RETRIES = 3;
+		private static final int MAX_RETRIES = 1;
 
 		@Override
 		public boolean retry(ITestResult result) {
