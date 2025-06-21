@@ -1,0 +1,1046 @@
+2025-06-19 08:10:29 DEBUG TestNG:82 -
+			suiteXmlPath: "C:\Users\Deity\eclipse-workspace\CloudBerry Training\NinjaV7\testng.xml"
+2025-06-19 08:10:31 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:10:31 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:10:31 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:11:09 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:11:16 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:11:16 DEBUG TC04_AddToWishList:25 -
+			Starting testAddToWishList()
+2025-06-19 08:11:16 INFO  TC04_AddToWishList:33 -
+			Clicking on 'My Account'
+2025-06-19 08:11:18 INFO  TC04_AddToWishList:36 -
+			Navigating to Login Page
+2025-06-19 08:11:18 INFO  TC04_AddToWishList:40 -
+			Entering login credentials
+2025-06-19 08:11:27 INFO  TC04_AddToWishList:46 -
+			Navigating to Laptops & Notebooks section
+2025-06-19 08:12:09 INFO  TC04_AddToWishList:53 -
+			Selecting the HP Laptop HP LP3065
+2025-06-19 08:12:13 INFO  TC04_AddToWishList:57 -
+			Adding the product to wishlist
+2025-06-19 08:12:15 DEBUG TC04_AddToWishList:63 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-06-19 08:12:15 INFO  TC04_AddToWishList:66 -
+			Product successfully added to wishlist.
+2025-06-19 08:12:15 DEBUG TC04_AddToWishList:74 -
+			Test completed.
+2025-06-19 08:12:15 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:12:16 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:12:16 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:12:16 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:12:16 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:12:26 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:12:29 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:12:29 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-06-19 08:12:29 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-06-19 08:12:30 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-06-19 08:12:30 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-06-19 08:12:35 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-06-19 08:12:35 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-06-19 08:12:35 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-06-19 08:12:35 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-06-19 08:12:36 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-06-19 08:12:36 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-06-19 08:12:36 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-06-19 08:12:36 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-06-19 08:12:36 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-06-19 08:12:36 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:12:37 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:12:37 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:12:37 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:12:37 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:12:44 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:12:48 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:12:48 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-06-19 08:12:48 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-06-19 08:12:49 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-06-19 08:12:51 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-06-19 08:12:51 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-06-19
+2025-06-19 08:12:51 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-06-26
+2025-06-19 08:12:51 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-06-26
+2025-06-19 08:12:51 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-06-19 08:12:52 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-06-19 08:12:52 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-06-19 08:12:52 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-06-19 08:12:52 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-06-19 08:12:52 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:12:52 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:12:52 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:12:52 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:12:52 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:13:01 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:13:04 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:13:04 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-06-19 08:13:07 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-06-19 08:13:18 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-06-26
+2025-06-19 08:14:25 INFO  TC05_CompletePurchase:99 -
+			Verifying order confirmation message.
+2025-06-19 08:14:25 DEBUG TC05_CompletePurchase:101 -
+			Order placed confirmation message verified successfully.
+2025-06-19 08:14:25 DEBUG TC05_CompletePurchase:111 -
+			Test execution completed.
+2025-06-19 08:14:25 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:14:25 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:14:25 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:14:25 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:14:25 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:14:36 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:14:39 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:14:39 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-06-19 08:14:39 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-06-19 08:14:39 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-06-19 08:14:39 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-06-19 08:14:39 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-06-19 08:14:39 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-06-19 08:14:39 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:14:40 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:14:40 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: chrome
+2025-06-19 08:14:40 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:14:40 INFO  BaseClass:104 -
+			Launching Chrome Browser
+2025-06-19 08:14:48 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:14:52 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:14:53 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:53 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:53 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:14:54 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:14:54 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:14:54 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:14:55 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:14:58 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:14:58 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:00 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:00 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:00 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:15:00 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:15:00 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:15:04 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:15:04 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:05 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:05 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:05 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:15:05 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:15:06 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:15:08 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:15:08 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:09 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:09 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:09 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:15:09 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:15:09 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:15:11 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:15:11 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:12 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:12 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:12 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:15:12 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:15:12 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:15:14 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:15:14 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:14 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:14 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:14 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:15:14 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:15:15 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:15:17 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:15:17 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:15:17 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:15:17 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:15:17 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:15:18 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:15:21 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:15:21 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:15:21 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:15:32 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:15:40 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:15:40 DEBUG TC04_AddToWishList:25 -
+			Starting testAddToWishList()
+2025-06-19 08:15:40 INFO  TC04_AddToWishList:33 -
+			Clicking on 'My Account'
+2025-06-19 08:15:48 INFO  TC04_AddToWishList:36 -
+			Navigating to Login Page
+2025-06-19 08:15:49 INFO  TC04_AddToWishList:40 -
+			Entering login credentials
+2025-06-19 08:15:51 INFO  TC04_AddToWishList:46 -
+			Navigating to Laptops & Notebooks section
+2025-06-19 08:16:12 INFO  TC04_AddToWishList:53 -
+			Selecting the HP Laptop HP LP3065
+2025-06-19 08:16:16 INFO  TC04_AddToWishList:57 -
+			Adding the product to wishlist
+2025-06-19 08:16:18 DEBUG TC04_AddToWishList:63 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-06-19 08:16:18 INFO  TC04_AddToWishList:66 -
+			Product successfully added to wishlist.
+2025-06-19 08:16:18 DEBUG TC04_AddToWishList:74 -
+			Test completed.
+2025-06-19 08:16:18 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:16:21 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:16:21 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:16:21 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:16:21 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:16:28 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:16:32 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:16:32 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-06-19 08:16:32 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-06-19 08:16:33 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-06-19 08:16:33 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-06-19 08:16:33 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-06-19 08:16:34 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-06-19 08:16:35 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-06-19 08:16:35 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-06-19 08:16:35 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:16:37 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:16:37 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:16:37 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:16:37 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:16:39 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:16:52 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:16:52 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-06-19 08:16:52 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-06-19 08:16:56 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-06-19 08:16:57 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-06-19
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-06-26
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-06-26
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-06-19 08:16:58 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-06-19 08:16:58 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:17:00 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:17:00 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:17:00 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:17:00 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:17:09 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:17:15 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:17:15 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-06-19 08:17:18 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-06-19 08:17:32 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-06-26
+2025-06-19 08:18:41 INFO  TC05_CompletePurchase:99 -
+			Verifying order confirmation message.
+2025-06-19 08:18:41 DEBUG TC05_CompletePurchase:101 -
+			Order placed confirmation message verified successfully.
+2025-06-19 08:18:41 DEBUG TC05_CompletePurchase:111 -
+			Test execution completed.
+2025-06-19 08:18:41 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:18:42 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:18:42 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:18:42 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:18:42 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:18:51 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:18:54 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:18:54 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-06-19 08:18:54 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-06-19 08:18:54 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-06-19 08:18:54 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-06-19 08:18:54 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-06-19 08:18:54 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-06-19 08:18:54 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:18:56 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:18:56 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: edge
+2025-06-19 08:18:56 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:18:56 INFO  BaseClass:108 -
+			Launching Edge Browser
+2025-06-19 08:19:02 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:19:07 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:19:07 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:19:07 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:07 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:08 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:09 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:09 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:11 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:11 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:11 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:11 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:11 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:13 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:13 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:16 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:16 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:16 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:16 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:17 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:18 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:18 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:19 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:19 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:19 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:19 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:20 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:21 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:21 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:22 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:22 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:22 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:22 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:22 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:24 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:24 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:25 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:25 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:25 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:19:25 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:19:26 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:19:27 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:19:27 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:19:28 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:19:28 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:19:28 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:19:29 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:19:30 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:19:30 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:19:30 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:19:59 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:20:07 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:20:07 DEBUG TC04_AddToWishList:25 -
+			Starting testAddToWishList()
+2025-06-19 08:20:07 INFO  TC04_AddToWishList:33 -
+			Clicking on 'My Account'
+2025-06-19 08:20:10 INFO  TC04_AddToWishList:36 -
+			Navigating to Login Page
+2025-06-19 08:20:12 INFO  TC04_AddToWishList:40 -
+			Entering login credentials
+2025-06-19 08:20:16 INFO  TC04_AddToWishList:46 -
+			Navigating to Laptops & Notebooks section
+2025-06-19 08:20:21 INFO  TC04_AddToWishList:53 -
+			Selecting the HP Laptop HP LP3065
+2025-06-19 08:20:24 INFO  TC04_AddToWishList:57 -
+			Adding the product to wishlist
+2025-06-19 08:20:27 DEBUG TC04_AddToWishList:63 -
+			Message displayed: Success: You have added HP LP3065 to your wish list!
+×
+2025-06-19 08:20:27 INFO  TC04_AddToWishList:66 -
+			Product successfully added to wishlist.
+2025-06-19 08:20:27 DEBUG TC04_AddToWishList:74 -
+			Test completed.
+2025-06-19 08:20:27 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:20:31 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:20:31 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:20:31 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:20:31 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:20:44 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:20:53 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:20:53 DEBUG TC06_PurchaseGiftCertificate:26 -
+			Test started: testPurchaseGiftCertificate
+2025-06-19 08:20:53 DEBUG TC06_PurchaseGiftCertificate:30 -
+			Navigating to HomePage.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:33 -
+			Navigated to GiftCertificatePage.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:38 -
+			Entering recipient's name.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:41 -
+			Entering recipient's email.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:44 -
+			Entering sender's name.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:47 -
+			Entering sender's email.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:50 -
+			Selecting birthday for the Gift Certificate.
+2025-06-19 08:20:55 DEBUG TC06_PurchaseGiftCertificate:53 -
+			Agreeing to terms and conditions.
+2025-06-19 08:20:56 DEBUG TC06_PurchaseGiftCertificate:56 -
+			Proceeding with the purchase.
+2025-06-19 08:20:57 DEBUG TC06_PurchaseGiftCertificate:60 -
+			Verifying purchase confirmation message.
+2025-06-19 08:20:57 DEBUG TC06_PurchaseGiftCertificate:66 -
+			Assertion passed: Purchase successful.
+2025-06-19 08:20:57 DEBUG TC06_PurchaseGiftCertificate:78 -
+			Test completed: testPurchaseGiftCertificate
+2025-06-19 08:20:57 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:20:59 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:20:59 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:20:59 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:20:59 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:21:07 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:21:12 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:21:12 DEBUG TC03_AddToCart:24 -
+			Test Started: testAddToCart
+2025-06-19 08:21:12 DEBUG TC03_AddToCart:28 -
+			Navigating to Laptops and Notebooks section
+2025-06-19 08:21:14 DEBUG TC03_AddToCart:33 -
+			Selecting product: HP LP3065
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:37 -
+			Setting the delivery date
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:41 -
+			Today's date: 2025-06-19
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:45 -
+			Calculated delivery date: 2025-06-26
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:49 -
+			Formatted delivery date: 2025-06-26
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:52 -
+			Delivery date entered in input field
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:56 -
+			Clicked on Add to Cart button
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:60 -
+			Message received: Success: You have added HP LP3065 to your shopping cart!
+×
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:63 -
+			Assertion passed: Product added to cart successfully
+2025-06-19 08:21:15 DEBUG TC03_AddToCart:74 -
+			Test Ended: testAddToCart
+2025-06-19 08:21:15 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:21:20 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:21:20 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:21:20 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:21:20 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:21:29 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:21:35 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:21:35 DEBUG TC05_CompletePurchase:22 -
+			Test execution started.
+2025-06-19 08:21:38 INFO  TC05_CompletePurchase:27 -
+			Navigating to Laptops and Notebooks section.
+2025-06-19 08:21:48 INFO  TC05_CompletePurchase:43 -
+			Setting the delivery date: 2025-06-26
+2025-06-19 08:22:59 INFO  TC05_CompletePurchase:99 -
+			Verifying order confirmation message.
+2025-06-19 08:22:59 DEBUG TC05_CompletePurchase:101 -
+			Order placed confirmation message verified successfully.
+2025-06-19 08:22:59 DEBUG TC05_CompletePurchase:111 -
+			Test execution completed.
+2025-06-19 08:22:59 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:23:01 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:23:01 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:23:01 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:23:01 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:23:11 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:23:15 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:23:15 INFO  TC01_LaunchApplication:18 -
+			Starting test: testLaunchApplication
+2025-06-19 08:23:15 DEBUG TC01_LaunchApplication:26 -
+			Navigating to HomePage
+2025-06-19 08:23:15 DEBUG TC01_LaunchApplication:29 -
+			Verifying homepage confirmation message.
+2025-06-19 08:23:15 INFO  TC01_LaunchApplication:31 -
+			Received homepage confirmation message: Qafox.com
+2025-06-19 08:23:15 INFO  TC01_LaunchApplication:35 -
+			Homepage confirmation message matched expected value.
+2025-06-19 08:23:15 INFO  TC01_LaunchApplication:46 -
+			Test execution completed: testLaunchApplication
+2025-06-19 08:23:15 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:23:18 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
+2025-06-19 08:23:18 INFO  BaseClass:50 -
+			Starting Test Execution - OS: windows, Browser: firefox
+2025-06-19 08:23:18 DEBUG BaseClass:58 -
+			Successfully loaded config.properties file.
+2025-06-19 08:23:18 INFO  BaseClass:112 -
+			Launching Firefox Browser
+2025-06-19 08:23:26 DEBUG BaseClass:125 -
+			WebDriver instance set successfully.
+2025-06-19 08:23:30 INFO  BaseClass:133 -
+			Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-06-19 08:23:30 DEBUG PackageRelationshipCollection:307 -
+			Parsing relationship: /_rels/.rels
+2025-06-19 08:23:30 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:30 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:31 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:32 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:32 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:33 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:33 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:33 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:33 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:34 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:35 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:35 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:36 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:36 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:36 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:36 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:37 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:38 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:38 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:39 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:39 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:39 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:39 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:40 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:41 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:41 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:42 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:42 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:42 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:42 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:42 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:44 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:44 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:44 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:44 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:44 INFO  TC02_Login:39 -
+			Test Started: TC02_Login
+2025-06-19 08:23:44 DEBUG TC02_Login:43 -
+			Navigating to login page...
+2025-06-19 08:23:45 DEBUG TC02_Login:48 -
+			Setting email and password...
+2025-06-19 08:23:46 DEBUG TC02_Login:55 -
+			My account confirmation status: true
+2025-06-19 08:23:46 INFO  TC02_Login:58 -
+			Login successful.
+2025-06-19 08:23:47 INFO  TC02_Login:64 -
+			Test Passed: Login was successful.
+2025-06-19 08:23:47 INFO  TC02_Login:74 -
+			Test Completed: TC02_Login
+2025-06-19 08:23:47 INFO  BaseClass:151 -
+			Closing browser...
+2025-06-19 08:23:50 INFO  BaseClass:154 -
+			Browser closed and WebDriver instance removed.
